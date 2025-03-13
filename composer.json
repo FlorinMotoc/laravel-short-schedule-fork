@@ -1,5 +1,5 @@
 {
-    "name": "florinmotoc/laravel-short-schedule",
+    "name": "florinmotoc/laravel-short-schedule-fork",
     "description": "Schedule artisan commands to run using a sub-minute frequency",
     "keywords": [
         "spatie",
